@@ -42,8 +42,8 @@ const Home = () => (
             Vineeth Menon
           </Heading>
           <p>
-            Backend engineer. Java; & _Python enthusiast. I love to
-            solve problems with and without code.
+            Backend engineer. Java; & _python enthusiast. I enjoy solving
+            problems; with and without code.
           </p>
         </Box>
         <Box
@@ -76,13 +76,13 @@ const Home = () => (
           About Me
         </Heading>
         <Paragraph>
-          Hey there! I&apos;m a software engineer who enjoys taking complex
-          problems and turning them into simple and elegant solutions. I love
-          the thrill of finding the logic and creating elegant structures.
+          Hey there! I&apos;m a software engineer who enjoys turning complex
+          problems into simple, elegant solutions. I love uncovering the logic
+          behind challenges and building clean, thoughtful systems that work.
           <br></br>
           <br></br>
-          When I&apos;m not coding, you&apos;ll find me watching movies, trying
-          my hand in photography or riding my motorcycle. 🏍️💨
+          When I&apos;m not coding, you&apos;ll probably find me riding my
+          motorcycle 🏍️, watching movies, or experimenting with photography.
         </Paragraph>
       </Section>
 
@@ -92,23 +92,23 @@ const Home = () => (
         </Heading>
         <BioSection>
           <BioYear>1987</BioYear>
-          <BioDescription>Born in Kerala, India 👶🏽</BioDescription>
+          <BioDescription>Born 👶🏽</BioDescription>
         </BioSection>
         <BioSection>
-          <BioYear>2011</BioYear>
+          <BioYear>2011 </BioYear>
           <BioDescription>Masters in Computer Science 🎓</BioDescription>
         </BioSection>
         <BioSection>
           <BioYear>2014</BioYear>
-          <BioDescription>Software Enginner at Wipro</BioDescription>
+          <BioDescription>Software Engineer at Hopscotch (Acquired by Wipro)</BioDescription>
         </BioSection>
         <BioSection>
           <BioYear>2021</BioYear>
-          <BioDescription>Software Enginner at Broadsign</BioDescription>
+          <BioDescription>Software Engineer at Broadsign</BioDescription>
         </BioSection>
         <BioSection>
           <BioYear>2022</BioYear>
-          <BioDescription>Software Enginner at Autonomic. In 2023, Autonomic became fully integrated with Ford Motor Company.</BioDescription>
+          <BioDescription>Software Engineer at Autonomic (Acquired by Ford)</BioDescription>
         </BioSection>
       </Section>
 
@@ -117,8 +117,8 @@ const Home = () => (
           I ♥
         </Heading>
         <Paragraph>
-          Coding, <text style={{ color: 'teal' }}>music</text>, movies,{' '}
-          <text style={{ color: 'teal' }}>treking</text> and photography.
+          When I'm not coding, you'll usually find me around cars or motorcycles,
+          listening to music, watching movies, hiking or experimenting with photography.
         </Paragraph>
       </Section>
 
