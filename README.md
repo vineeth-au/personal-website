@@ -1,10 +1,6 @@
-# Vineeth Menon's Resume
+# Vineeth's Portfolio
 
-Welcome to my _Presonal Portfolio_
-
----
-
-# TechStack
+## TechStack ##
 
 - React
 - NextJs
@@ -14,8 +10,7 @@ Welcome to my _Presonal Portfolio_
 
 ---
 
-# Project Structure
-
+## Project Structure ##
 ```
 $PROJECT_ROOT
 │   # Page files
@@ -27,10 +22,7 @@ $PROJECT_ROOT
 │   # Static files for images and 3d model file
 └── public
 ```
-
----
-
-# Getting Started
+## Getting Started ##
 
 Make sure npm is installed. If not, install using `brew install node`
 To build the application - npm run build
