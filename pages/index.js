@@ -82,7 +82,7 @@ const Home = () => (
           <br></br>
           <br></br>
           When I&apos;m not coding, you&apos;ll probably find me riding my
-          motorcycle 🏍️, watching movies, or experimenting with photography.
+          motorcycle 🏍️, reading or experimenting with photography.
         </Paragraph>
       </Section>
 
@@ -117,8 +117,9 @@ const Home = () => (
           I ♥
         </Heading>
         <Paragraph>
-          When I'm not coding, you'll usually find me around cars or motorcycles,
-          listening to music, watching movies, hiking or experimenting with photography.
+          I'm naturally curious about how things work; from home DIY projects
+          to machines and mechanics. I have a particular love for
+          cars & motorcycles, and I also enjoy hiking and photography.
         </Paragraph>
       </Section>
 
