@@ -1,5 +1,3 @@
-# Vineeth's Portfolio
-
 ## TechStack ##
 
 - React
