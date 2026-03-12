@@ -7,7 +7,6 @@
 - Chakra UI
 - ThreeJs
 - Framer Motion
-
 ---
 
 ## Project Structure ##
