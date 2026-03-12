@@ -1,5 +1,3 @@
-# Vineeth's Portfolio
-
 ## TechStack ##
 
 - React
@@ -7,7 +5,6 @@
 - Chakra UI
 - ThreeJs
 - Framer Motion
-
 ---
 
 ## Project Structure ##
