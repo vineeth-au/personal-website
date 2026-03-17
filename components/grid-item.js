@@ -9,7 +9,7 @@ export const GridItem = ({ children, href, title, thumbnail }) => (
       <Image
         src={thumbnail}
         alt={title}
-        // className="grid-item-thumbnail"
+        className="grid-item-thumbnail"
         placeholder="blur"
         loading="lazy"
       />
