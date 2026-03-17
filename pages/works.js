@@ -4,6 +4,7 @@ import Section from '../components/section'
 import { WorkGridItem } from '../components/grid-item'
 
 import jsonp from '../public/images/works/JsonParser-Image1.png'
+import iconShell from '../public/images/works/terminal.png'
 
 const Works = () => (
   <Layout>
@@ -19,6 +20,13 @@ const Works = () => (
             JSON.
           </WorkGridItem>
         </Section>
+
+        <Section>
+          <WorkGridItem id="Shell" title="Shell" thumbnail={iconShell}>
+            A POSIX compliant shell (in the near future)...
+          </WorkGridItem>
+        </Section>
+
       </SimpleGrid>
     </Container>
   </Layout>

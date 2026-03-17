@@ -55,14 +55,10 @@ const Projects = () => (
       <List ml={4} my={4}>
         <ListItem>
           <Meta>Github</Meta>
-          <Link href="https://github.com/VinnieM/JSONParser">
+          <Link href="https://github.com/vineeth-au/JSONParser">
             JSONParser
             <ExternalLinkIcon mx="2px" />
           </Link>
-        </ListItem>
-        <ListItem>
-          <Meta>Platform</Meta>
-          <span>Windows/macOS/Linux</span>
         </ListItem>
       </List>
 
