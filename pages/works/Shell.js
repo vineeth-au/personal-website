@@ -4,6 +4,8 @@ import {
   Link,
   List,
   ListItem,
+  Code,
+  OrderedList,
   Heading,
   Text,
   Center
@@ -25,7 +27,16 @@ const Projects = () => (
         <br></br>
         Current Features <br></br> <br></br>
         The shell starts with a prompt ($) that signals it’s ready for your command.
-        As of now, only a few commands are supported.
+        As of now, only a few commands are supported such as
+        <OrderedList>
+          <ListItem><Code>exit</Code> command terminates the shell</ListItem>
+          <ListItem><Code>Control + C</Code> terminates the shell.</ListItem>
+          <ListItem><Code>echo</Code> builtin prints its arguments</ListItem>
+          <ListItem><Code>type</Code> builtin is used to determine how a command would be interpreted if it were used.</ListItem>
+          <ListItem><Code>pwd</Code> builtin prints the full, absolute path of the current working directory</ListItem>
+          <ListItem><Code>cd</Code> builtin is used to change the current working directory - Implementation in Progress</ListItem>
+        </OrderedList>
+
 
       </Text>
       <List ml={4} my={4}>

@@ -23,8 +23,7 @@ const Works = () => (
 
         <Section>
           <WorkGridItem id="Shell" title="Shell" thumbnail={iconShell}>
-            A POSIX compliant shell (in the near future) capable of interpreting shell commands,
-            running external programs and builtin commands like cd, pwd, echo and more.
+            A POSIX compliant shell (in the near future)...
           </WorkGridItem>
         </Section>
 
