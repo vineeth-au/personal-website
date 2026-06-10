@@ -21,6 +21,6 @@ $PROJECT_ROOT
 ```
 ## Getting Started ##
 
-Make sure npm is installed. If not, install using `brew install node`
-To build the application - npm run build
-To run the application in dev mode - npm run
+- Make sure npm is installed. If not, install using `brew install node`
+- To build the application - `npm run build`
+- To run the application in dev mode - `npm run dev`
